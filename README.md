@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Praveen</h1>
-<h3 align="center">Expertise in #DevSecOps, #Java, #SpringBoot, #AWS, #EKS, #Docker, #Android, #Flutter, and #OpenAI - Crafting Secure, Scalable, and Innovative Solutions at the Intersection of Cutting-Edge Technologies.</h3>
+<h3 align="center">Expertise in #Python, #Django, #flask, #Java, #SpringBoot, #ReactJS, #VueJS, WSQL, #PSQL, #NoSQL, #AWS, #Docker, #CI/CD, #Terraform, #CFT's, #Android and Machine Larning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenkumarreddymallu&label=Profile%20views&color=0e75b6&style=flat" alt="praveenkumarreddymallu" /> </p>
 
@@ -7,9 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Praveenm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Praveenm" height="30" width="40" /></a>
 <a href="https://instagram.com/Praveenm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Praveenm" height="30" width="40" /></a>
-<a href="https://discord.gg/Praveenm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Praveenm" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

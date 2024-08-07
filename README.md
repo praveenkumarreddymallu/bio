@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Praveen</h1>
+<h1 align="center">Hi Folks👋, I'm Praveen</h1>
 <h3 align="center">Expertise in #Python, #Django, #flask, #Java, #SpringBoot, #ReactJS, #VueJS, WSQL, #PSQL, #NoSQL, #AWS, #Docker, #CI/CD, #Terraform, #CFT's, #Android and Machine Larning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenkumarreddymallu&label=Profile%20views&color=0e75b6&style=flat" alt="praveenkumarreddymallu" /> </p>
